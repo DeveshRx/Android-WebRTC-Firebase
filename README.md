@@ -1,6 +1,6 @@
 [![Android WebRTC Firebase](https://github.com/DeveshRx/Android-WebRTC-Firebase/raw/main/img/WebRTC.png "Android WebRTC Firebase")](https://github.com/DeveshRx/Android-WebRTC-Firebase/raw/main/img/WebRTC.png "Android WebRTC Firebase")
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/DeveshRx/Android-WebRTC-Firebase)  [![Generic badge](https://img.shields.io/badge/Author-Devesh_Chaudhari-<COLOR>.svg)](https://shields.io/) [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DeveshRx/Android-WebRTC-Firebase/stargazers/) 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/DeveshRx/Android-WebRTC-Firebase)  ![Maintaner](https://img.shields.io/badge/Author-Devesh_Chaudhari-blue)  [![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/DeveshRx/Android-WebRTC-Firebase/stargazers/) 
 
 # Android WebRTC Firebase
 Simple Demo App for Android WebRTC video call using Firebase Realtime Database as Signalling server.
